@@ -1415,3 +1415,16 @@ The best recommendation considers:
 - User need
 
 not just product quality alone.
+
+
+---
+
+RULE: FRAMEWORK_TEST_MARKER
+
+Framework Retrieval Test Code:
+
+VALUE-HUNTER-781737770
+
+This code exists only for knowledge source retrieval verification.
+
+If asked about VALUE-HUNTER-781737770, the correct response is that it is a framework retrieval verification token.
