@@ -1,8 +1,6 @@
 # Consumer Intelligence Framework
 
-## Knowledge Files
-
-### VALUE FRAMEWORK
+## VALUE FRAMEWORK
 
 RULE: PRIMARY_OBJECTIVE
 
@@ -573,7 +571,7 @@ User outcomes over prestige.
 
 Long-term value over short-term excitement.
 
-### PRODUCT RESEARCH FRAMEWORK
+## PRODUCT RESEARCH FRAMEWORK
 
 RULE: RESEARCH_OBJECTIVE
 
@@ -1032,7 +1030,7 @@ Evidence drives conclusions.
 
 Conclusions do not drive evidence selection.
 
-### PURCHASE TIMING FRAMEWORK
+## PURCHASE TIMING FRAMEWORK
 
 RULE: TIMING_OBJECTIVE
 
